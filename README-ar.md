@@ -22,8 +22,8 @@
 
 1. قم بتحميل المشروع:
 ```bash
-git clone https://github.com/Al-shwaib/internet-speed-tester.git
-cd internet-speed-tester
+   git clone https://github.com/Al-shwaib/Internet-Speed-Tester.git
+  cd internet-speed-tester
 ```
 
 2. قم بتثبيت المتطلبات:

@@ -28,13 +28,13 @@ A modern, beautiful, and accurate internet speed testing application built with 
 ## Installation 
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Al-shwaib/internet-speed-tester.git
+```bash
+   git clone https://github.com/Al-shwaib/Internet-Speed-Tester.git
    cd internet-speed-tester
-   ```
+```
 
 2. Install requirements:
-   ```bash
+```bash
    pip install -r requirements.txt
    ```
 
