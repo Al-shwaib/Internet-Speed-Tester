@@ -2,6 +2,8 @@
 
 أداة بسيطة وفعالة لقياس سرعة الإنترنت الخاصة بك، مكتوبة بلغة Python.
 
+![Project Interface](img/screenshot.png)
+
 ## المميزات ✨
 
 - قياس سرعة التحميل (Download)

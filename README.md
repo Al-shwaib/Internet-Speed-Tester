@@ -2,6 +2,8 @@
 
 A modern, beautiful, and accurate internet speed testing application built with Python.
 
+![Project Interface](img/screenshot.png)
+
 ## Features 
 
 - **Modern UI**: Built with CustomTkinter for a sleek, modern look
