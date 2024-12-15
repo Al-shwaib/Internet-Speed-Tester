@@ -1,10 +1,14 @@
-# Internet Speed Tester 
+# Internet Speed Tester / مختبر سرعة الإنترنت
+
+<div dir="ltr">
+
+## English 🇬🇧
 
 A modern, beautiful, and accurate internet speed testing application built with Python.
 
 ![Project Interface](img/screenshot.png)
 
-## Features 
+### Features 
 
 - **Modern UI**: Built with CustomTkinter for a sleek, modern look
 - **Accurate Measurements**: 
@@ -17,7 +21,7 @@ A modern, beautiful, and accurate internet speed testing application built with 
 - **Dark Mode**: Modern dark theme for better visibility
 - **Responsive Design**: Resizable window that adapts to your screen
 
-## Requirements 
+### Requirements 
 
 - Python 3.8 or higher
 - Required packages:
@@ -27,20 +31,20 @@ A modern, beautiful, and accurate internet speed testing application built with 
   requests==2.31.0
   ```
 
-## Installation 
+### Installation 
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/Al-shwaib/Internet-Speed-Tester.git
-   cd internet-speed-tester
+git clone https://github.com/Al-shwaib/Internet-Speed-Tester.git
+cd internet-speed-tester
 ```
 
 2. Install requirements:
 ```bash
-   pip install -r requirements.txt
-   ```
+pip install -r requirements.txt
+```
 
-## Usage 
+### Usage 
 
 Run the application:
 ```bash
@@ -74,3 +78,85 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - CustomTkinter for the modern UI components
 - Speed test servers (Cloudflare, Hetzner, OVH) for providing test endpoints
+
+</div>
+
+<div dir="rtl" lang="ar">
+
+## العربية 🇸🇦
+
+تطبيق عصري وجميل ودقيق لاختبار سرعة الإنترنت مبني باستخدام بايثون.
+
+
+### المميزات
+
+- **واجهة مستخدم عصرية**: مبنية باستخدام CustomTkinter لمظهر أنيق وعصري
+- **قياسات دقيقة**:
+  - اختبار سرعة التنزيل
+  - اختبار سرعة الرفع
+  - قياس وقت الاستجابة (Ping)
+  - اختبار الخوادم الحقيقية (Cloudflare, Hetzner, OVH)
+- **تقدم فوري**: تغذية راجعة مرئية أثناء الاختبار
+- **تتبع السجل**: تتبع اختبارات السرعة السابقة
+- **الوضع المظلم**: مظهر مظلم عصري لرؤية أفضل
+- **تصميم متجاوب**: نافذة قابلة لإعادة التحجيم تتكيف مع شاشتك
+
+### المتطلبات
+
+- بايثون 3.8 أو أعلى
+- الحزم المطلوبة:
+  ```
+  customtkinter==5.2.0
+  pillow==10.0.0
+  requests==2.31.0
+  ```
+
+### التثبيت
+
+1. استنساخ المستودع:
+```bash
+git clone https://github.com/Al-shwaib/Internet-Speed-Tester.git
+cd internet-speed-tester
+```
+
+2. تثبيت المتطلبات:
+```bash
+pip install -r requirements.txt
+```
+
+### الاستخدام
+
+تشغيل التطبيق:
+```bash
+python main.py
+```
+
+## كيف يعمل 
+
+1. **سرعة التنزيل**: يختبر سرعة التنزيل باستخدام خوادم متعددة من أجل الدقة
+2. **سرعة الرفع**: يقيس سرعة الرفع باستخدام نقاط اختبار موثوقة
+3. **وقت الاستجابة**: يحسب وقت الاستجابة لخوادم مختلفة
+4. **السجل**: يحفظ نتائج الاختبار تلقائيًا للمراجعة في المستقبل
+
+## لقطات الشاشة 
+
+[أضف لقطات شاشة لتطبيقك هنا]
+
+## المساهمة 
+
+شجع على المساهمة في هذا المشروع:
+1. انشئ نسخة من المستودع
+2. أنشئ فرعًا جديدًا
+3. قم بتعديلاتك
+4. أرسل طلب سحب
+
+## رخصة 
+
+يخضع هذا المشروع لرخصة MIT - انظر ملف LICENSE لمزيد من التفاصيل.
+
+## إعترافات 
+
+- CustomTkinter لمكونات واجهة المستخدم الحديثة
+- خوادم اختبار السرعة (Cloudflare, Hetzner, OVH) لتوفير نقاط اختبار
+
+</div>
